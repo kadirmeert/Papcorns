@@ -1,0 +1,6 @@
+framework module Pods_Papcorns {
+  umbrella header "Pods-Papcorns-umbrella.h"
+
+  export *
+  module * { export * }
+}
